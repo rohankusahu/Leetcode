@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1470-shuffle-the-array](https://github.com/rohankusahu/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1872-stone-game-viii](https://github.com/rohankusahu/Leetcode/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/rohankusahu/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rohankusahu/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
