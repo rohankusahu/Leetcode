@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/rohankusahu/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rohankusahu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/rohankusahu/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1872-stone-game-viii](https://github.com/rohankusahu/Leetcode/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/rohankusahu/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -67,4 +68,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/rohankusahu/Leetcode/tree/master/1929-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rohankusahu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rohankusahu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rohankusahu/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
